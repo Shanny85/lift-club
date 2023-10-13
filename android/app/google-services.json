@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1069838282623",
+    "project_id": "the-lift-club-7743f",
+    "storage_bucket": "the-lift-club-7743f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069838282623:android:8d392525e57df547b1b44a",
+        "android_client_info": {
+          "package_name": "za.co.wethinkcode.widgets_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069838282623-hk6lqmiuinqrkf4lhf9jshsb2oef3h9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9FJ95c-4bHjiUKAOvRUsFMjQHO9qcNcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069838282623-hk6lqmiuinqrkf4lhf9jshsb2oef3h9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069838282623-gsbe7o5g62igo8l0ndgflrbqcb81nena.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.co.wethinkcode.widgetsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1069838282623-hk6lqmiuinqrkf4lhf9jshsb2oef3h9c.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1069838282623</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9FJ95c-4bHjiUKAOvRUsFMjQHO9qcNcc</string>
+    <string name="google_app_id" translatable="false">1:1069838282623:android:8d392525e57df547b1b44a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9FJ95c-4bHjiUKAOvRUsFMjQHO9qcNcc</string>
+    <string name="google_storage_bucket" translatable="false">the-lift-club-7743f.appspot.com</string>
+    <string name="project_id" translatable="false">the-lift-club-7743f</string>
+</resources>
